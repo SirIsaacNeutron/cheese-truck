@@ -62,14 +62,20 @@ section {
     flex-wrap: wrap;
 
     background-color: #fff0c0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hook-image {
+    margin-left: auto;
 }
 
 .hook img {
     width: 400px;
     height: auto;
 
-    margin-left: auto;
     margin-right: 70px;
+    display: block;
 }
 
 .hook-text {
