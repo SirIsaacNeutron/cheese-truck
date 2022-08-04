@@ -84,6 +84,12 @@ section {
     padding-left: 120px;
 }
 
+.hook-text button {
+    background-color: black;
+    color: #ffd64f;
+    padding: 20px 50px;
+}
+
 .hook-text h1 {
     font-size: 3rem;
 }
