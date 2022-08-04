@@ -146,6 +146,40 @@ section {
     font-size: 4rem;
 }
 
+.closing {
+    padding: 40px;
+}
+
+.closing h1 {
+    font-size: 2.5rem;
+}
+
+.closing p {
+    font-size: 2rem;
+}
+
+.closing-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.closing-text {
+    max-width: 500px;
+}
+
+.closing-button {
+    padding: 30px 50px;
+    border-radius: 5px;
+
+    background-color: white;
+}
+
+.closing-button:hover {
+    background-color: black;
+    color: white;
+}
+
 footer {
     background-color: #2a2a2a;
     margin-top: auto;
