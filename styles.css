@@ -4,6 +4,8 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
@@ -98,6 +100,10 @@ section {
     font-size: 1.5rem;
 }
 
+.menu {
+    padding-bottom: 200px;
+}
+
 .menu ul {
     margin-top: 20px;
 }
@@ -120,26 +126,20 @@ section {
 }
 
 .menu-item {
-    width: 250px;
+    width: 200px;
     height: 300px;
 
     font-size: 20px;
+}
+
+.menu-section-header {
+    text-align: center;
 }
 
 .menu-img {
     width: 200px;
     height: 133px;
     display: block;
-}
-
-.drinks {
-    margin-top: 150px;
-
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-
-    padding-bottom: 50px;
 }
 
 .testimonials {
