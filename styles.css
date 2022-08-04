@@ -93,7 +93,6 @@ section {
 }
 
 .menu {
-    border-bottom: 2px dotted black;
 }
 
 .menu ul {
@@ -138,6 +137,13 @@ section {
     justify-content: center;
 
     padding-bottom: 50px;
+}
+
+.testimonials {
+    background-color: #ffaa2c;
+    padding: 0px 100px;
+
+    font-size: 4rem;
 }
 
 footer {
